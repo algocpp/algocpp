@@ -1,6 +1,6 @@
 
 #include <bits/stdc++.h>
-#include <string/split.hpp>
+#include <algocpp/string/split.hpp>
 using namespace std;
 
 int main()
