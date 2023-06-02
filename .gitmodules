@@ -4,3 +4,6 @@
 [submodule "math"]
 	path = math
 	url = https://github.com/algocpp/math.git
+[submodule "type"]
+	path = type
+	url = https://github.com/algocpp/type.git
