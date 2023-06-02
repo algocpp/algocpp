@@ -1,0 +1,3 @@
+[submodule "string"]
+	path = string
+	url = https://github.com/algocpp/string.git
