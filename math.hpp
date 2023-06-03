@@ -5,3 +5,4 @@
 // If used, it must comply with the MIT License.
 
 #include <algocpp/math/fact.hpp>
+#include <algocpp/math/isprime.hpp>

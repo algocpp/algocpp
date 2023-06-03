@@ -5,4 +5,5 @@ using namespace std;
 
 int main()
 {
+    cout << algocpp::math::isprime(1) << endl;
 }
