@@ -7,3 +7,6 @@
 [submodule "type"]
 	path = type
 	url = https://github.com/algocpp/type.git
+[submodule "io"]
+	path = io
+	url = https://github.com/algocpp/io.git
