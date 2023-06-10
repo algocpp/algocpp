@@ -8,3 +8,4 @@
 #include <algocpp/type.hpp>
 #include <algocpp/string.hpp>
 #include <algocpp/io.hpp>
+#include <algocpp/os.hpp>
