@@ -13,3 +13,6 @@
 [submodule "os"]
 	path = os
 	url = https://github.com/algocpp/os.git
+[submodule "array"]
+	path = array
+	url = https://github.com/algocpp/array
