@@ -1,6 +1,6 @@
 
-#include <bits/stdc++.h>
-#include "../string/replace.hpp"
+#include <iostream>
+#include <algocpp/all.hpp>
 using namespace std;
 
 int main()
