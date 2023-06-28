@@ -5,8 +5,9 @@ using namespace std;
 
 int main()
 {
-	string a, b, c;
-	cin >> a >> b >> c;
+	vector<string> a = {"AAa", "hcveio", "vfneio", "AAa"};
 
-	cout << algocpp::string::replace(a, b, c, 1) << endl;
+	string c;
+	cin >> c;
+	cout << algocpp::array::count(a, c) << endl;
 }
