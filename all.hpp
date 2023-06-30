@@ -11,3 +11,4 @@
 #include <algocpp/os.hpp>
 #include <algocpp/array.hpp>
 #include <algocpp/file.hpp>
+#include <algocpp/exception.hpp>
