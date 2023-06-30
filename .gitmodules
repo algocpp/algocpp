@@ -16,3 +16,6 @@
 [submodule "array"]
 	path = array
 	url = https://github.com/algocpp/array
+[submodule "file"]
+	path = file
+	url = https://github.com/algocpp/file.git
