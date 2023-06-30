@@ -19,3 +19,6 @@
 [submodule "file"]
 	path = file
 	url = https://github.com/algocpp/file.git
+[submodule "exception"]
+	path = exception
+	url = https://github.com/algocpp/exception.git
