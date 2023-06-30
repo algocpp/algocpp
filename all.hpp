@@ -10,3 +10,4 @@
 #include <algocpp/io.hpp>
 #include <algocpp/os.hpp>
 #include <algocpp/array.hpp>
+#include <algocpp/file.hpp>

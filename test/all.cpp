@@ -1,13 +1,10 @@
 
 #include <iostream>
-#include <algocpp/all.hpp>
+// #include <algocpp/all.hpp>
+#include <algocpp/file/class.hpp>
 using namespace std;
 
 int main()
 {
-	vector<string> a = {"AAa", "hcveio", "vfneio", "AAa"};
-
-	string c;
-	cin >> c;
-	cout << algocpp::array::count(a, c) << endl;
+	cout << "AA" << endl;
 }
