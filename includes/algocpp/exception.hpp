@@ -5,3 +5,4 @@
 // if used, it must comply with the mit license.
 
 #include <algocpp/exception/blank.hpp>
+#include <algocpp/exception/numeric.hpp>
