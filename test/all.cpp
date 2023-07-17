@@ -5,5 +5,8 @@ using namespace std;
 
 int main()
 {
-	cout << algocpp::math::fact(-1);
+	string s = "AB";
+	s *= 3;
+
+	cout << s << endl;
 }

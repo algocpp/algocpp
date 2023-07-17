@@ -12,3 +12,4 @@
 #include <algocpp/array.hpp>
 #include <algocpp/file.hpp>
 #include <algocpp/exception.hpp>
+#include <algocpp/json.hpp>
