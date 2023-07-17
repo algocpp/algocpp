@@ -5,8 +5,7 @@ using namespace std;
 
 int main()
 {
-	string s = "AB";
-	s *= 3;
+	wstring a = L"あああ";
 
-	cout << s << endl;
+	cout << a << endl;
 }
