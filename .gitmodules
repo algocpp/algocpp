@@ -25,3 +25,6 @@
 [submodule "includes/algocpp/json"]
 	path = includes/algocpp/json
 	url = https://github.com/algocpp/json
+[submodule "includes/algocpp/csv"]
+	path = includes/algocpp/csv
+	url = https://github.com/algocpp/csv.git
