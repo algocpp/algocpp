@@ -6,4 +6,5 @@
 
 #include <algocpp/string/split.hpp>
 #include <algocpp/string/replace.hpp>
-#include<algocpp/string/multiplication.hpp>
+#include <algocpp/string/multiplication.hpp>
+#include <algocpp/string/is_palind.hpp>

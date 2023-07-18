@@ -1,5 +1,6 @@
 .vscode/
 *.exe
 *.gch
+*.obj
 test/wiki.md
 test/wiki.cpp

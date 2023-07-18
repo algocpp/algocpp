@@ -5,7 +5,9 @@ using namespace std;
 
 int main()
 {
-	wstring a = L"あああ";
+	cout << boolalpha;
 
-	cout << a << endl;
+	string a;
+	cin >> a;
+	cout << algocpp::string::is_palind(a) << endl;
 }
