@@ -5,9 +5,7 @@ using namespace std;
 
 int main()
 {
-	cout << boolalpha;
+	u8string a = u8"Shift_JISを、俺は絶対に許さない。";
 
-	string a;
-	cin >> a;
-	cout << algocpp::string::is_palind(a) << endl;
+	cout << a << endl;
 }

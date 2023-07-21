@@ -8,3 +8,4 @@
 #include <algocpp/string/replace.hpp>
 #include <algocpp/string/multiplication.hpp>
 #include <algocpp/string/is_palind.hpp>
+#include <algocpp/string/wconvert.hpp>
