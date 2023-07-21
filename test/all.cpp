@@ -3,9 +3,16 @@
 #include <algocpp/all.hpp>
 using namespace std;
 
+int mode = ENABLE_PROCESSED_OUTPUT + ENABLE_VIRTUAL_TERMINAL_PROCESSING;
+
 int main()
 {
-	u8string a = u8"Shift_JISを、俺は絶対に許さない。";
+	// auto x = GetStdHandle(-11);
+	// SetConsoleMode(x, mode);
 
-	cout << a << endl;
+	system("");
+
+	cout << "\e[31mHello!\e[m\n";
+	int a;
+	cin >> a;
 }
