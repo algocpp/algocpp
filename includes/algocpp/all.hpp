@@ -13,3 +13,5 @@
 #include <algocpp/file.hpp>
 #include <algocpp/exception.hpp>
 #include <algocpp/json.hpp>
+#include <algocpp/csv.hpp>
+#include <algocpp/algorithm.hpp>

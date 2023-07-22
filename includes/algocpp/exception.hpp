@@ -6,3 +6,4 @@
 
 #include <algocpp/exception/blank.hpp>
 #include <algocpp/exception/numeric.hpp>
+#include <algocpp/exception/invaid_str.hpp>
