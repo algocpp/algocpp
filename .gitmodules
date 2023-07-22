@@ -28,3 +28,6 @@
 [submodule "includes/algocpp/csv"]
 	path = includes/algocpp/csv
 	url = https://github.com/algocpp/csv.git
+[submodule "includes/algocpp/algorithm"]
+	path = includes/algocpp/algorithm
+	url = https://github.com/algocpp/algorithm
