@@ -5,3 +5,5 @@
 // If used, it must comply with the MIT License.
 
 #include <algocpp/array/count.hpp>
+
+#include <algocpp/array/operator/plus.hpp>
