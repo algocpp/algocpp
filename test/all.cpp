@@ -7,8 +7,5 @@ using namespace std;
 
 int main()
 {
-	vector<int> a = {1, 2, 3};
-	a += {5, 4, 2};
-
-	cout << a << endl;
+	cout << algocpp::os::get_temp() << endl;
 }
