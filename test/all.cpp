@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-	vector<int> a = {2, 3, 4};
-	unordered_set<int> q(a.begin(), a.end());
+	// vector<int> a = {2, 3, 4};
+	unordered_set<int> q = {1, 4, 2, 5, 3, 1, 5, 2, 5, 4, 7, 3};
 
 	cout << q << endl;
 
