@@ -7,5 +7,15 @@ using namespace std;
 
 int main()
 {
-	cout << algocpp::algorithm::stalin_sort(array<int, 6>{1, 4, 5, 2, 9, 1}) << endl;
+	vector<int> a = {2, 3, 4};
+	unordered_set<int> q(a.begin(), a.end());
+
+	cout << q << endl;
+
+	// vector<set<int>> c = {
+	// {1, 3, 4},
+	// {4, 6}};
+
+	// cout << c << endl;
+	// boost::multiprecision::abs();
 }
