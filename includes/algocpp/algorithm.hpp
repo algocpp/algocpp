@@ -5,3 +5,4 @@
 // If used, it must comply with the MIT License.
 
 #include <algocpp/algorithm/chm.hpp>
+#include <algocpp/algorithm/stalin_sort.hpp>

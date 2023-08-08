@@ -7,5 +7,5 @@ using namespace std;
 
 int main()
 {
-	cout << algocpp::os::get_temp() << endl;
+	cout << algocpp::algorithm::stalin_sort(array<int, 6>{1, 4, 5, 2, 9, 1}) << endl;
 }
