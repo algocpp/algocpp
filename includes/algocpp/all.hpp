@@ -15,3 +15,4 @@
 // #include <algocpp/json.hpp>
 // #include <algocpp/csv.hpp>
 #include <algocpp/algorithm.hpp>
+#include <algocpp/numeric.hpp>
