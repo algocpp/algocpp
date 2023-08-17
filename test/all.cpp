@@ -1,10 +1,14 @@
-
 #include <bits/stdc++.h>
 #include <algocpp/all.hpp>
-// #include <boost/array.hpp>
 using namespace std;
 
 int main()
 {
-	cout << algocpp::string::replace("ABCBA", "B", "?") << endl;
+	unordered_map<int, string> a = {
+		{3, "A"},
+		{5, "KA"}};
+
+	cout << a << endl;
+
+	return 0;
 }
