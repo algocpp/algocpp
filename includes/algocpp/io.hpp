@@ -6,3 +6,4 @@
 
 #include <algocpp/io/input.hpp>
 #include <algocpp/io/output.hpp>
+#include <algocpp/io/color.hpp>
