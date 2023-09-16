@@ -6,3 +6,4 @@
 
 #include <algocpp/math/fact.hpp>
 #include <algocpp/math/isprime.hpp>
+#include <algocpp/math/gcd.hpp>

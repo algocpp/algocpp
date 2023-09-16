@@ -4,10 +4,7 @@ using namespace std;
 
 int main()
 {
-	vector<int> a;
-	cin >> a;
-
-	cout << a << endl;
+	cout << algocpp::math::gcd(vector<string>{"what?", "ever", "doyou?"}) << endl;
 
 	return 0;
 }
