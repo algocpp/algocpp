@@ -31,6 +31,3 @@
 [submodule "includes/algocpp/algorithm"]
 	path = includes/algocpp/algorithm
 	url = https://github.com/algocpp/algorithm.git
-[submodule "includes/algocpp/numeric"]
-	path = includes/algocpp/numeric
-	url = https://github.com/algocpp/numeric.git
