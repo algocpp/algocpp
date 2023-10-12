@@ -6,5 +6,6 @@
 
 #include <algocpp/array/count.hpp>
 #include <algocpp/array/subarr.hpp>
+#include <algocpp/array/apply.hpp>
 
 #include <algocpp/array/operator/plus.hpp>
